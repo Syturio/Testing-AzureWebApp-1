@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5\\Lab5.csproj": {}
+    "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5\\Lab5.csproj": {
+    "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5\\Lab5.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5.csproj",
         "projectName": "Lab5",
-        "projectPath": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5\\Lab5.csproj",
+        "projectPath": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5.csproj",
         "packagesPath": "C:\\Users\\sytur\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\Lab5\\obj\\",
+        "outputPath": "D:\\OneDrive\\Trabalho\\[0] Geral\\Repositórios\\AZ-204_Lab5\\Testing-AzureWebApp-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sytur\\AppData\\Roaming\\NuGet\\NuGet.Config",
